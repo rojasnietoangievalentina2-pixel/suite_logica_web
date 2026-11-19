@@ -248,7 +248,7 @@ function dibujarParabola(canvas, a, b, c, res) {
   ctx.stroke();
 
   // Curva de la Parabola
-  ctx.strokeStyle = "#06b6d4";
+  ctx.strokeStyle = "#a855f7";
   ctx.lineWidth = 2.5;
   ctx.beginPath();
   let first = true;
