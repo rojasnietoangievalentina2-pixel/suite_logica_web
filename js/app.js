@@ -300,7 +300,7 @@ function initModuloC() {
     try {
       const raw = inputSec.value.split(",").map(s => parseFloat(s.trim())).filter(n => !isNaN(n));
       if (raw.length < 3) {
-        throw new Error("Por favor introduce al menos 3 números válidos separados por comas.");
+        throw new Error("Escribe mínimo 3 números separados por comas, por ejemplo: 7, 11, 16");
       }
       const res = analizarSecuencia(raw);
       resSec.innerHTML = `Secuencia ingresada: <strong>[${raw.join(", ")}]</strong><br>` +
