@@ -41,3 +41,5 @@ Abrir http://localhost:8000 en el navegador.
 - Gestion de Git y Commits: 20 pts
 - Despliegue y UX/UI: 15 pts
 - Sustentacion Presencial: 15 pts
+
+- Mi cascarita favorita fue la de a=0, porque una cuadrática se puede volver lineal.
